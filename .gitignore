@@ -1,0 +1,21 @@
+# Maven build artifacts
+target/
+*.war
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+*.logs
+
+# IDE files (optional but recommended)
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
